@@ -55,21 +55,6 @@ I'm a **4th-year Computer Science student** at **Modern Academy, Faculty of BIS*
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-/* ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelngar2005-alt&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelngar2005-alt&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelngar2005-alt&theme=radical&hide_border=true"/>
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div> */
-
 ## 📈 Contribution Graph
 
 <p align="center">
