@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;Learning+Flutter+%26+Dart;Building+Real+Projects;Always+Improving+My+Skills" alt="Typing SVG" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20Mobile%20Dev-2E9EF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" />
-</p> -->
 
 ---
 
@@ -27,20 +23,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,mysql,html,css,git,github,vscode" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedelngar2005-alt&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelngar2005-alt&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelngar2005-alt&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 📌 Featured Projects
