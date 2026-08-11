@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=FF6B6B&width=500&lines=Mobile+App+Developer+in+Training+📱;Learning+Flutter+%26+Dart;4th-Year+CS+Student;Building+My+First+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=FF6B6B&width=500&lines=Mobile+App+Developer+in+Training+📱;Learning+Flutter+%26+Dart;4th-Year+BIS+Student;Building+My+First+Apps+🚀" />
 </p>
 
 <div align="center">
