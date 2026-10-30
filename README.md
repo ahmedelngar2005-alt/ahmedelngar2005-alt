@@ -43,12 +43,32 @@
 
 ## 📂 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🏋️ **FitLife** | Fitness & nutrition app/website: workout planning, exercise discovery, calorie tracking | Flutter · HTML · CSS |
-| 🚇 **Cairo Metro** | Calculates station count, estimated ticket price and journey duration | Flutter · Dart |
-| 🌸 **Amore** | Luxury perfume e-commerce website concept with a clean browsing experience | HTML · CSS |
-| 💼 **Portfolio** | My personal portfolio: bilingual (AR/EN), dark/light theme, fully responsive | HTML · CSS · JS |
+| Project | Description | Stack | Code |
+|---|---|---|---|
+| 💼 **Portfolio** | My personal portfolio: bilingual (AR/EN), dark/light theme, fully responsive | HTML · CSS · JavaScript | [Repo](https://github.com/ahmedelngar2005-alt/Portfolio) |
+| 🏋️ **FitLife** | Fitness & nutrition website: workout planning, exercise discovery, calorie features | HTML · CSS | [Repo](https://github.com/ahmedelngar2005-alt/Fitlife-Site) |
+| 🌸 **Amore** | Luxury perfume e-commerce website concept with a clean browsing experience | HTML · CSS | [Repo](https://github.com/ahmedelngar2005-alt/amore) |
+| 🚇 **Cairo Metro** | Flutter app that calculates station count, ticket price and journey duration | Flutter · Dart | _coming soon_ |
+
+---
+
+## 🧩 What I Used to Build My Portfolio
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Google_Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white" alt="Google Fonts">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</p>
+
+- **HTML5**: semantic structure, accessible landmarks, native `<dialog>` for the certificate viewer
+- **CSS3**: Grid and Flexbox layouts, custom properties for dark/light themes, `clamp()` fluid sizing, `aspect-ratio`, `backdrop-filter`, keyframe animations, and `prefers-reduced-motion` support
+- **Vanilla JavaScript**: English/Arabic switching with RTL, typed-text effect, scroll-reveal with `IntersectionObserver`, theme and language saved in `localStorage`, contact form validation with `mailto`
+- **Fonts**: Cairo (Arabic) and Inter (English) from Google Fonts
+- **Responsive design**: tested for phones, tablets and desktops
+- **Assets**: optimized WebP images and a downloadable PDF resume
 
 ---
 
